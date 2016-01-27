@@ -6,10 +6,10 @@
 .. _galaxy_start:
 
 
-Ansible Galaxy Cookbook
+Ansible Galaxy Guide
 ============================================
 
-Thank you for your interest in Ansible Galaxy. This cookbook is a collection of specific how-to tasks and offers ....
+Thank you for your interest in Ansible Galaxy. This guide helps get your automation project up and running with great content from the Ansible community.
 
 .. raw:: html
 

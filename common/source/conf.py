@@ -383,4 +383,4 @@ def import_from(module, name):
 #    intersphinx_mapping[docname] = (link_uri, 
 #                                    os.path.join(top_level, docname, 'build/html/objects.inv'))
 
-# Ansible Galaxy Cookbook
+# Ansible Galaxy Guide
