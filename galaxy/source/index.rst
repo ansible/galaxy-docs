@@ -26,5 +26,13 @@ Thank you for your interest in Ansible Galaxy. This guide helps get your automat
   :numbered:
 
   self
+  create-role
   galaxy
+
+Index
+==================
+
+   * :ref:`genindex` 
+   
+.. include:: ../../common/source/copyright.rst
 
