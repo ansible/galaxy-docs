@@ -1,4 +1,4 @@
-This document is Copyright © 2015 Red Hat, Inc. All rights reserved.
+This document is Copyright © 2016 Red Hat, Inc. All rights reserved.
 
 Ansible, Ansible Tower, Red Hat, and Red Hat Enterprise Linux are trademarks of Red Hat, Inc., registered in the United States and other countries.
  
